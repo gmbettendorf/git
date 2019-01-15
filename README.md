@@ -1,3 +1,4 @@
+THIS IS GEN'S EDIT
 # Introduction to Git and GitHub
 
 Git is version control software used to track the state of files associated with a project. Users can take snapshots of files, travel through the history of a project, collaborate transparently with others, and easily keep compatible data in many locations. Combined with GitHub, a cloud service, Git also becomes a way of finding and publishing text, including writing and code.
